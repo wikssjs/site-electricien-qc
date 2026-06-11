@@ -1,6 +1,5 @@
 User-agent: *
 Allow: /
 Disallow: /devis-electricien/
-Crawl-delay: 3
 
 Sitemap: https://prix-electricien.ca/sitemap-index.xml
