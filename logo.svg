@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 248 52" width="248" height="52" fill="none">
+  <!-- lightning bolt outline -->
+  <polygon points="20,4 10,26 18,26 13,48 28,22 19,22 25,4" stroke="#ca8a04" stroke-width="1.8" stroke-linejoin="round" fill="none"/>
+  <!-- text -->
+  <text x="44" y="34" font-family="system-ui,-apple-system,sans-serif" font-size="22" font-weight="700" fill="#ca8a04" letter-spacing="-0.4">Prix</text>
+  <text x="86" y="34" font-family="system-ui,-apple-system,sans-serif" font-size="22" font-weight="400" fill="#713f12" letter-spacing="-0.4">Électricien</text>
+</svg>
